@@ -1,0 +1,483 @@
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\appsettings.Development.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\appsettings.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.staticwebassets.endpoints.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.exe
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.deps.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.runtimeconfig.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ZabdyTech.pdb
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\BCrypt-Net-Next.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Humanizer.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Npgsql.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.CodeDom.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.AssemblyReference.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfoInputs.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfo.cs
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.CoreCompileInputs.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cs
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\scopedcss\bundle\ZabdyTech.styles.css
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\staticwebassets.development.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.Up2Date
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\refint\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.pdb
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ZabdyTech.genruntimeconfig.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTech\ZabdyTech\obj\Debug\net8.0\ref\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.AssemblyReference.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfoInputs.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfo.cs
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.CoreCompileInputs.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cs
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.Development.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.staticwebassets.endpoints.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.exe
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.deps.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.runtimeconfig.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.pdb
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\BCrypt-Net-Next.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Humanizer.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.CodeDom.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\scopedcss\bundle\ZabdyTech.styles.css
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.development.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.Up2Date
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\refint\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.pdb
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.genruntimeconfig.cache
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ref\ZabdyTech.dll
+D:\Zaryab\BS SE NTU SEMESTER 2ND\OOP\.NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.staticwebassets.endpoints.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.exe
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.deps.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.runtimeconfig.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.pdb
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\BCrypt-Net-Next.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Humanizer.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.AssemblyReference.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfoInputs.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfo.cs
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.CoreCompileInputs.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\scopedcss\bundle\ZabdyTech.styles.css
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.Up2Date
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\refint\ZabdyTech.dll
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.pdb
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.genruntimeconfig.cache
+C:\Users\AR COMPUTER\Downloads\NET CORE C#\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ref\ZabdyTech.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.Development.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\appsettings.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.staticwebassets.endpoints.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.exe
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.deps.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.runtimeconfig.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ZabdyTech.pdb
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\BCrypt-Net-Next.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Humanizer.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.CodeDom.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.AssemblyReference.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfoInputs.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.AssemblyInfo.cs
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.CoreCompileInputs.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.sourcelink.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\scopedcss\bundle\ZabdyTech.styles.css
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.development.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.csproj.Up2Date
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\refint\ZabdyTech.dll
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.pdb
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ZabdyTech.genruntimeconfig.cache
+D:\ASP.NetCore\Zabdy Tech\ZabdyTechh\ZabdyTech\obj\Debug\net8.0\ref\ZabdyTech.dll

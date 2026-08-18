@@ -1,0 +1,171 @@
+[
+  {
+    "ContainingType": "ZabdyTech.Controller.AccountController",
+    "Method": "LoginStudent",
+    "RelativePath": "api/Account/signin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ZabdyTech.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controller.AccountController",
+    "Method": "RegisterStudent",
+    "RelativePath": "api/Account/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ZabdyTech.DTOs.SignupDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controller.EnrollmentController",
+    "Method": "ProcessEnrollmentSteps",
+    "RelativePath": "api/Enrollment/proceed-to-payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ZabdyTech.DTOs.SubmitStepDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controller.EnrollmentController",
+    "Method": "GetStudentProfileForEnrollment",
+    "RelativePath": "api/Enrollment/student-profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controller.EnrollmentController",
+    "Method": "SubmitEnrollmentPayment",
+    "RelativePath": "api/Enrollment/submit-payment/{enrollmentId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enrollmentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ZabdyTech.DTOs.PaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controllers.ProjectController",
+    "Method": "GetStudentProfile",
+    "RelativePath": "api/Project/profile/{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controllers.ProjectController",
+    "Method": "GetStudentResult",
+    "RelativePath": "api/Project/student-result/{projectId}/{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controllers.ProjectController",
+    "Method": "GetStudentSubmissionHistory",
+    "RelativePath": "api/Project/student-submissions/{studentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controllers.ProjectController",
+    "Method": "GetSubmittedStudents",
+    "RelativePath": "api/Project/submitted-students/{projectId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "projectId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ZabdyTech.Controllers.ProjectController",
+    "Method": "UpdateStudentProfile",
+    "RelativePath": "api/Project/update-profile/{studentId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ZabdyTech.Dtos.UpdateProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

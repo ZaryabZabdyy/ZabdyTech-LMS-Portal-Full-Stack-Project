@@ -1,0 +1,18 @@
+2. Kya Yeh Validations Hum Student.cs (Model) Mein Bhi Likh Sakte Hain?
+Ji haan, bilkul likh sakte hain! Technical tor par agar aap yeh saare [Required], [RegularExpression], aur ErrorMessage utha kar direct Student.cs model ke upar laga dein, to bhi validation bilkul sahi kaam karegi.
+
+Lekin software architecture ke mutabiq aisa na karne ki 3 baray wajoohaat hain:
+
+A. Password vs PasswordHash ka Masla
+Aapke Student.cs model mein column ka naam PasswordHash hai. Jab user signup karega, to woh form par apna plain text password (jaise Zabdy@123) likhega.
+
+Agar aap validation model par lagate hain, to aapko plain password par validation lagani paregi.
+
+Lekin database mein aap plain password save nahi karte, balki use hash (encrypt) karke save karte hain.
+
+Agar model par hi direct check laga hoga, to plain password aur hashed password aapas mein takra jayenge.
+
+B. Organization Aur Doosri Fields Ka Farq
+Aapke Student model mein Organization ka column bhi maujood hai. Lekin aapne khud bataya ke yeh field Enrollment Gateway ke waqt chahiye, Signup ke waqt nahi.
+
+Agar aap pure model ko hi signup ke liye use karenge, to .NET sochega ke signup ke waqt Organization kyun khali hai, aur woh user ko error de sakta hai ya confusion paida karega. DTO is liye banta hai taake sirf signup wali fields hi screen se pass hon.

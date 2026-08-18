@@ -29,6 +29,14 @@ Designed with simplicity, scalability, and performance in mind, this project con
 
 ---
 
+
+## 🎯 Future Improvements
+* **Adding student progress tracking and completion certificates.
+* **Enhancing UI animations and themes.
+* **Implementing role-based dashboards for admins and students.
+
+---
+
 ## 📂 Project Structure
 
 ```text
@@ -44,3 +52,5 @@ ZabdysTech-LMS/
     ├── css/                 # Stylesheets
     ├── js/                  # JavaScript logic & API fetch handlers
     └── index.html           # Main user interface entry point
+
+

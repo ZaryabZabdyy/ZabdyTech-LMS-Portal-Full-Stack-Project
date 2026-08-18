@@ -1,4 +1,4 @@
-powershell -Command "Set-Content -Path 'README.md' -Value '# Zabdy''s Tech LMS Portal 🚀
+# Zabdy''s Tech LMS Portal 🚀
 
 Welcome to **Zabdy''s Tech** Learning Management System (LMS)! This is a full-stack web application built to provide a smooth and organized platform for technical courses—including Python, Artificial Intelligence (AI), and .NET Development. 
 

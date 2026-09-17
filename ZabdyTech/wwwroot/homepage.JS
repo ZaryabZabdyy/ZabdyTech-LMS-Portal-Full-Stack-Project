@@ -1,6 +1,6 @@
 // ==========================================================================
 // 📚 DATA HUB: Dynamic Course Outlines, Benefits, Pricing, and Explicit URL Keys
-// ==========================================================================
+// 
 const courseSyllabusDatabase = {
     "Java Programming Masterclass": {
         key: "fswd",

@@ -74,6 +74,7 @@ internal class Program
         app.UseAuthorization();  // Role / Right validation
 
         app.MapControllers();
+        app.MapFallbackToFile("homepage.html");
 
         app.Run();
     }

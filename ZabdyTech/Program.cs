@@ -65,6 +65,15 @@ internal class Program
         }
 
         app.UseHttpsRedirection();
+        app.UseHttpsRedirection();
+
+        // 🎯 Yeh do lines add karni hain taake homepage.html aur static files load ho sakein
+        var defaultFilesOptions = new DefaultFilesOptions();
+        defaultFilesOptions.DefaultFileNames.Clear();
+        defaultFilesOptions.DefaultFileNames.Add("homepage.html");
+        app.UseDefaultFiles(defaultFilesOptions);
+        app.UseStaticFiles();
+
         app.UseRouting();
 
         // 🎯 SINGLE CORS MIDDLEWARE (Must be placed before Authentication/Authorization)

@@ -13,6 +13,9 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     let parsedCourseKey = "fswd";
+    const API_BASE_URL = window.location.hostname === 'localhost'
+        ? 'http://localhost:5500' // Local testing ke liye
+        : 'https://aapke-railway-backend-ka-url.up.railway.app';
 
     // Dynamic Modal Handlers
     const enrollmentModal = document.getElementById("enrollmentModal");
@@ -95,7 +98,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         try {
-            const response = await fetch("/api/enrollment/student-profile", {
+            const response = await fetch("${API_BASE_URL}/api/enrollment/student-profile", {
                 method: "GET",
                 headers: {
                     "Content-Type": "application/json",
@@ -257,7 +260,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 try {
                     const token = localStorage.getItem("jwt_token");
 
-                    const response = await fetch("/api/enrollment/proceed-to-payment", {
+                    const response = await fetch("${API_BASE_URL}/api/enrollment/proceed-to-payment", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json",
@@ -460,7 +463,7 @@ document.addEventListener("DOMContentLoaded", () => {
             try {
                 const token = localStorage.getItem("jwt_token");
 
-                const response = await fetch(`http://localhost:5127/api/enrollment/submit-payment/${currentEnrollmentId}`, {
+                const response = await fetch(`${API_BASE_URL}/api/enrollment/submit-payment/${currentEnrollmentId}`, {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",

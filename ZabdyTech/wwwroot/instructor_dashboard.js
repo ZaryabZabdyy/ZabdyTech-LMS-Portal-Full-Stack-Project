@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const CURRENT_INSTRUCTOR_ID = rawInstructorId ? parseInt(rawInstructorId) : 12;
 
     const TARGET_PROJECT_ID = 6;
-    // Yeh code khud detect kar lega ke website localhost par hai ya Railway par
-    const BASE_API_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
-        ? "http://localhost:5127/api"
-        : "/api";
+
+    const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+        ? 'http://localhost:5000' // Local ke liye
+        : 'https://aapke-backend-ka-railway-url.up.railway.app'; // Yahan apna Railway ka live backend URL likhein
 
     let cachedSubmissionsList = [];
     let studentNamesCache = {};

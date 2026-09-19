@@ -32,6 +32,10 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     }
 
+    const API_BASE_URL = window.location.hostname === 'localhost'
+        ? 'http://localhost:5500' // Local testing ke liye
+        : 'https://aapke-railway-backend-ka-url.up.railway.app';
+
     // Dynamic "Z" Loading Spinner Toggle for Buttons
     function toggleButtonLoading(btnElement, isLoading, originalText = "") {
         if (!btnElement) return;
@@ -178,7 +182,7 @@ document.addEventListener("DOMContentLoaded", () => {
             verificationOverlayBlock.classList.remove("hidden");
 
             try {
-                const response = await fetch("/api/auth/verify-code", {
+                const response = await fetch("${API_BASE_URL}/api/auth/verify-code", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ email: verifiedEmailContext, resetCode: codeVal })
@@ -241,7 +245,7 @@ document.addEventListener("DOMContentLoaded", () => {
             }
 
             try {
-                const response = await fetch("http://localhost:5127/api/auth/reset-password", {
+                const response = await fetch("/api/auth/reset-password", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({

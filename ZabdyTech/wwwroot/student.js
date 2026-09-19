@@ -45,10 +45,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const rawStudentId = extractedStudentId || localStorage.getItem("student_id") || sessionStorage.getItem("student_id");
     const CURRENT_STUDENT_ID = rawStudentId ? parseInt(rawStudentId) : 1;
 
-    const BASE_API_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
-        ? "http://localhost:5127/api"
-        : "/api"; // Verify your API port matches backend
-
+    // Yeh check karega ke app kahan chal rahi hai
+    const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+        ? 'http://localhost:5000' // Local ke liye
+        : 'https://aapke-backend-ka-railway-url.up.railway.app'; // Yahan apna Railway ka live backend URL likhein
     // ==========================================
     // 2. DOM ELEMENT REFERENCES
     // ==========================================

@@ -7,14 +7,14 @@ document.addEventListener("DOMContentLoaded", () => {
     const loginModalText = document.getElementById("loginModalText");
     const closeLoginModalBtn = document.getElementById("closeLoginModalBtn");
     const portalRequiredNotice = document.getElementById("portalRequiredNotice");
-    
+
     let isSuccessRedirect = false;
 
     // Helper to show styled custom modal
     function showModal(title, message, isError = false, isSuccess = false) {
         loginModalTitle.textContent = title;
         loginModalText.textContent = message;
-        
+
         if (isError) {
             loginModalBox.classList.add("error-modal");
             loginModalIcon.textContent = "❌";
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
             loginModalBox.classList.remove("error-modal");
             loginModalIcon.textContent = isSuccess ? "⚡" : "ℹ️";
         }
-        
+
         loginModal.classList.remove("hidden");
     }
 
@@ -35,12 +35,12 @@ document.addEventListener("DOMContentLoaded", () => {
     if (loginForm) {
         loginForm.addEventListener("submit", async (e) => {
             e.preventDefault();
-            
+
             const emailInput = document.getElementById("loginEmail");
             const passwordInput = document.getElementById("loginPassword");
             const submitBtn = loginForm.querySelector(".btn-submit-form");
             const originalBtnText = submitBtn.innerHTML;
-            
+
             let isLoginValid = true;
 
             [emailInput, passwordInput].forEach(inputField => {
@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
             submitBtn.classList.add("is-loading");
             submitBtn.innerHTML = `<span class="z-spinner">Z</span> Processing...`;
 
-            const backendLoginUrl = "http://localhost:5127/api/Account/signin";
+            const backendLoginUrl = "/api/Account/signin";
 
             try {
                 const response = await fetch(backendLoginUrl, {

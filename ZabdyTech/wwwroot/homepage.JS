@@ -215,8 +215,8 @@ document.addEventListener("DOMContentLoaded", () => {
             let syllabusData = courseSyllabusDatabase[clickedTitle];
 
             if (!syllabusData) {
-                const matchedKey = Object.keys(courseSyllabusDatabase).find(key => 
-                    clickedTitle.toLowerCase().includes(key.toLowerCase()) || 
+                const matchedKey = Object.keys(courseSyllabusDatabase).find(key =>
+                    clickedTitle.toLowerCase().includes(key.toLowerCase()) ||
                     key.toLowerCase().includes(clickedTitle.toLowerCase())
                 );
                 if (matchedKey) {
@@ -340,7 +340,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 showZLoader("Verifying Instructor Credentials...");
 
                 try {
-                    const response = await fetch("http://localhost:5127/api/Account/instructor/signin", {
+                    const response = await fetch("/api/Account/instructor/signin", {
                         method: "POST",
                         headers: { "Content-Type": "application/json" },
                         body: JSON.stringify({ email: emailVal, password: passwordVal })
@@ -532,7 +532,7 @@ document.addEventListener("DOMContentLoaded", () => {
             const courseTitleElement = document.getElementById("dynamicCourseTitle");
             if (courseTitleElement) {
                 const titleText = courseTitleElement.textContent.trim().toLowerCase();
-                
+
                 if (titleText.includes("java")) activeTargetCourseKey = "fswd";
                 else if (titleText.includes("c#")) activeTargetCourseKey = "desktop";
                 else if (titleText.includes("python")) activeTargetCourseKey = "cyber";

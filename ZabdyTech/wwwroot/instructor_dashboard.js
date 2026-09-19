@@ -41,7 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
     const CURRENT_INSTRUCTOR_ID = rawInstructorId ? parseInt(rawInstructorId) : 12;
 
     const TARGET_PROJECT_ID = 6;
-    const BASE_API_URL = "http://localhost:5127/api";
+    // Yeh code khud detect kar lega ke website localhost par hai ya Railway par
+    const BASE_API_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+        ? "http://localhost:5127/api"
+        : "/api";
 
     let cachedSubmissionsList = [];
     let studentNamesCache = {};

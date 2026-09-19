@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", () => {
             parsedCourseKey = courseParam;
         }
         const activeData = courseCatalog[parsedCourseKey];
-        
+
         const titleEl = document.getElementById("targetCourseTitle");
         const iconEl = document.getElementById("targetCourseIcon");
         const descEl = document.getElementById("targetCourseDesc");
@@ -95,7 +95,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         try {
-            const response = await fetch("http://localhost:5127/api/enrollment/student-profile", {
+            const response = await fetch("/api/enrollment/student-profile", {
                 method: "GET",
                 headers: {
                     "Content-Type": "application/json",
@@ -116,13 +116,13 @@ document.addEventListener("DOMContentLoaded", () => {
             const student = await response.json();
 
             if (response.ok) {
-                const nameInput = document.getElementById("enrollName"); 
-                const emailInput = document.getElementById("enrollEmail"); 
+                const nameInput = document.getElementById("enrollName");
+                const emailInput = document.getElementById("enrollEmail");
                 const phoneInput = document.getElementById("enrollPhone");
 
-                if(nameInput) { nameInput.value = student.fullName; nameInput.readOnly = true; }
-                if(emailInput) { emailInput.value = student.email; emailInput.readOnly = true; }
-                if(phoneInput) { phoneInput.value = student.phoneNumber; phoneInput.readOnly = true; }
+                if (nameInput) { nameInput.value = student.fullName; nameInput.readOnly = true; }
+                if (emailInput) { emailInput.value = student.email; emailInput.readOnly = true; }
+                if (phoneInput) { phoneInput.value = student.phoneNumber; phoneInput.readOnly = true; }
             }
         } catch (error) {
             console.error("Error fetching student profile:", error);
@@ -137,23 +137,23 @@ document.addEventListener("DOMContentLoaded", () => {
     /* ==========================================================================
         🧭 MULTI-STEP NAVIGATION & STEP HISTORY ENGINE
        ========================================================================== */
-    const stepPanes = { 
-        1: document.getElementById("stepPane1"), 
-        2: document.getElementById("stepPane2"), 
-        3: document.getElementById("stepPane3") 
+    const stepPanes = {
+        1: document.getElementById("stepPane1"),
+        2: document.getElementById("stepPane2"),
+        3: document.getElementById("stepPane3")
     };
-    
-    const stepIndicators = { 
+
+    const stepIndicators = {
         1: document.getElementById("stepIndicator1"),
-        2: document.getElementById("stepIndicator2"), 
-        3: document.getElementById("stepIndicator3") 
+        2: document.getElementById("stepIndicator2"),
+        3: document.getElementById("stepIndicator3")
     };
-    
-    const stepLines = { 
-        1: document.getElementById("stepLine1"), 
-        2: document.getElementById("stepLine2") 
+
+    const stepLines = {
+        1: document.getElementById("stepLine1"),
+        2: document.getElementById("stepLine2")
     };
-    
+
     const enrollmentForm = document.getElementById("enrollmentGatewayForm");
     const btnTriggerPaymentFlow = document.getElementById("btnTriggerPaymentFlow");
     const verificationOverlayBlock = document.getElementById("verificationOverlayBlock");
@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
             if (validateStep(2)) {
                 const organizationInput = document.getElementById("enrollInstitute");
                 const selectedShiftRadio = document.querySelector('input[name="shiftPreference"]:checked');
-                
+
                 if (!organizationInput || !organizationInput.value.trim()) {
                     showModal("Organization Required", "Please specify your university or organization affiliation before proceeding.", true);
                     organizationInput.focus();
@@ -257,7 +257,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 try {
                     const token = localStorage.getItem("jwt_token");
 
-                    const response = await fetch("http://localhost:5127/api/enrollment/proceed-to-payment", {
+                    const response = await fetch("/api/enrollment/proceed-to-payment", {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json",
@@ -266,7 +266,7 @@ document.addEventListener("DOMContentLoaded", () => {
                         body: JSON.stringify({
                             organization: organizationValue,
                             shift: shiftValue,
-                            title: courseTitleValue 
+                            title: courseTitleValue
                         })
                     });
 
@@ -288,7 +288,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     } else {
                         verificationOverlayBlock.classList.add("hidden");
                         toggleButtonLoading(btnTriggerPaymentFlow, false, originalBtnHtml);
-                        
+
                         if (responseData.isPendingResume) {
                             showModal(
                                 "Pending Payment Detected",
@@ -306,7 +306,7 @@ document.addEventListener("DOMContentLoaded", () => {
                             if (matchedCatalogKey) {
                                 parsedCourseKey = matchedCatalogKey;
                                 const activeData = courseCatalog[parsedCourseKey];
-                                
+
                                 const titleEl = document.getElementById("targetCourseTitle");
                                 const iconEl = document.getElementById("targetCourseIcon");
                                 const descEl = document.getElementById("targetCourseDesc");
@@ -391,7 +391,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 showModal("Funding Route Required", "Please select your preferred payment transfer option.", true);
                 return;
             }
-            
+
             let selectedMethod = rawMethod === "easypaisa" ? "EasyPaisa" : "JazzCash";
 
             const activeCoursePriceString = courseCatalog[parsedCourseKey]?.price || "Rs. 0";
@@ -444,8 +444,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 cardNumber: null,
                 expiryDate: null,
                 cvv: null,
-                accountNumber: accountNoVal, 
-                transactionId: trxIdVal, 
+                accountNumber: accountNoVal,
+                transactionId: trxIdVal,
                 isVerified: isTermsChecked
             };
 

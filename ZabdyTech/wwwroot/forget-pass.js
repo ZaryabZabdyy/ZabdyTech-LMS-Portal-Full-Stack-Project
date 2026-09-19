@@ -49,23 +49,23 @@ document.addEventListener("DOMContentLoaded", () => {
     /* ==========================================================================
         🧭 MULTI-STEP NAVIGATION & STEP HISTORY ENGINE
        ========================================================================== */
-    const stepPanes = { 
-        1: document.getElementById("stepPane1"), 
-        2: document.getElementById("stepPane2"), 
-        3: document.getElementById("stepPane3") 
+    const stepPanes = {
+        1: document.getElementById("stepPane1"),
+        2: document.getElementById("stepPane2"),
+        3: document.getElementById("stepPane3")
     };
-    
-    const stepIndicators = { 
+
+    const stepIndicators = {
         1: document.getElementById("stepIndicator1"),
-        2: document.getElementById("stepIndicator2"), 
-        3: document.getElementById("stepIndicator3") 
+        2: document.getElementById("stepIndicator2"),
+        3: document.getElementById("stepIndicator3")
     };
-    
-    const stepLines = { 
-        1: document.getElementById("stepLine1"), 
-        2: document.getElementById("stepLine2") 
+
+    const stepLines = {
+        1: document.getElementById("stepLine1"),
+        2: document.getElementById("stepLine2")
     };
-    
+
     const verificationOverlayBlock = document.getElementById("verificationOverlayBlock");
 
     function renderStepView(targetStep) {
@@ -133,7 +133,7 @@ document.addEventListener("DOMContentLoaded", () => {
             verificationOverlayBlock.classList.remove("hidden");
 
             try {
-                const response = await fetch("http://localhost:5127/api/auth/forgot-password", {
+                const response = await fetch("/api/auth/forgot-password", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ email: verifiedEmailContext })
@@ -178,7 +178,7 @@ document.addEventListener("DOMContentLoaded", () => {
             verificationOverlayBlock.classList.remove("hidden");
 
             try {
-                const response = await fetch("http://localhost:5127/api/auth/verify-code", {
+                const response = await fetch("/api/auth/verify-code", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
                     body: JSON.stringify({ email: verifiedEmailContext, resetCode: codeVal })

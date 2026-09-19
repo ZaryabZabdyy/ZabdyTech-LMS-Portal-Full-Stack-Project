@@ -45,7 +45,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const rawStudentId = extractedStudentId || localStorage.getItem("student_id") || sessionStorage.getItem("student_id");
     const CURRENT_STUDENT_ID = rawStudentId ? parseInt(rawStudentId) : 1;
 
-    const BASE_API_URL = "http://localhost:5127/api"; // Verify your API port matches backend
+    const BASE_API_URL = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1"
+        ? "http://localhost:5127/api"
+        : "/api"; // Verify your API port matches backend
 
     // ==========================================
     // 2. DOM ELEMENT REFERENCES

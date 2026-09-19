@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 country: document.getElementById("country").value.trim()
             };
 
-            const backendUrl = "http://localhost:5127/api/Account/signup";
+            const backendUrl = "/api/Account/signup";
 
             try {
                 const response = await fetch(backendUrl, {
